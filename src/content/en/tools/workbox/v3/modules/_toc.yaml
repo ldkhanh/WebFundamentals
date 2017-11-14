@@ -1,5 +1,8 @@
 toc:
 
+- title: Overview
+  path: /web/tools/workbox/v3/modules/
+
 - heading: Service Worker Libraries
 - title: workbox
   path: /web/tools/workbox/v3/modules/workbox-sw

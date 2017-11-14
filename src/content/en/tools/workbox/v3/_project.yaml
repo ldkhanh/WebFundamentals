@@ -1,6 +1,6 @@
-name: Workbox
+name: "Workbox"
 description: Workbox is a set of service worker libraries that making build progressive web apps easy.
-home_url: /web/tools/workbox/
+home_url: /web/tools/workbox/v3/
 buganizer_id: 180451
 color: orange
 content_license: cc3-apache2
