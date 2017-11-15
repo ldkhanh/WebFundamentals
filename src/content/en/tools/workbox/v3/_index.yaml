@@ -8,7 +8,10 @@ landing_page:
   rows:
   - heading: Welcome
     description: >
-      TODO: Description
+      Welcome to the home of Workbox!
+
+      Workbox is a set of libraries and Node modules that make it easy to cache
+
 
     items:
     - heading: Get Started
